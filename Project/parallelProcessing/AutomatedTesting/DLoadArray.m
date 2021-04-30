@@ -1,9 +1,0 @@
-  idxTime = 1:1; %Customer can change the hours
-    DataOptions = [100,500,400]; %Determines Option Sizes, maximum ammount -> 2
-    PoolSizes = [1,2,3,4];
-    Records1 = []
-    Records2 = []
-    Records3 = []
-    RecordPoolSize1 = []
-    RecordPoolSize2 = []
-    RecordPoolSize3 = []
