@@ -1,0 +1,26 @@
+16-Apr-2021 14:31:01: Starting analysis of ../Model/TestFileNaN.nc
+16-Apr-2021 14:31:01: Success processing data hour 1
+16-Apr-2021 14:31:01: Success processing data hour 2
+16-Apr-2021 14:31:01: Success processing data hour 3
+16-Apr-2021 14:31:01: Success processing data hour 4
+16-Apr-2021 14:31:01: Success processing data hour 5
+16-Apr-2021 14:31:01: Success processing data hour 6
+16-Apr-2021 14:31:02: Success processing data hour 7
+16-Apr-2021 14:31:02: Success processing data hour 8
+16-Apr-2021 14:31:02: Success processing data hour 9
+16-Apr-2021 14:31:02: Success processing data hour 10
+16-Apr-2021 14:31:02: Success processing data hour 11
+16-Apr-2021 14:31:02: NaN Error processing data hour 12
+16-Apr-2021 14:31:02: Success processing data hour 13
+16-Apr-2021 14:31:02: Success processing data hour 14
+16-Apr-2021 14:31:02: Success processing data hour 15
+16-Apr-2021 14:31:02: Success processing data hour 16
+16-Apr-2021 14:31:02: Success processing data hour 17
+16-Apr-2021 14:31:02: Success processing data hour 18
+16-Apr-2021 14:31:02: Success processing data hour 19
+16-Apr-2021 14:31:02: Success processing data hour 20
+16-Apr-2021 14:31:02: Success processing data hour 21
+16-Apr-2021 14:31:02: Success processing data hour 22
+16-Apr-2021 14:31:02: Success processing data hour 23
+16-Apr-2021 14:31:03: Success processing data hour 24
+16-Apr-2021 14:31:03: Success processing data hour 25
